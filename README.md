@@ -25,9 +25,6 @@ Screenshot <img width="1907" height="902" alt="Captura de pantalla 2026-03-09 15
     \`\`\`
 3.  **Acceso**: Abre tu navegador en \`http://localhost:5173\`.
 
-## 🧠 Características Destacadas
 * **Diseño Realista**
 * **Sugerencia de Movimientos**
 * **Contador en Vivo**: Seguimiento preciso de piezas capturadas para ambos bandos.
-* **Clean Code**: Código estructurado sin comentarios innecesarios, siguiendo las mejores prácticas de desarrollo.
-"@ | Out-File -FilePath README.md -Encoding utf8
