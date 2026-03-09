@@ -23,7 +23,7 @@ Screenshot <img width="1907" height="902" alt="Captura de pantalla 2026-03-09 15
     \`\`\`powershell
     .\start_all.ps1
     \`\`\`
-3.  **Acceso**: Abre tu navegador en \`http://localhost:5173\`.
+3.  **Acceso**: Abre tu navegador en \http://localhost:5173\.
 
 * **Diseño Realista**
 * **Sugerencia de Movimientos**
