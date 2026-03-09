@@ -1,7 +1,7 @@
 
 # 🏁 Damas Project - 
 
-Un motor de juego de damas profesional con una arquitectura moderna de microservicios, diseñado para ofrecer una experiencia visual de alta fidelidad y sugerencias inteligentes.
+Un motor de juego de damas.
 
 Screenshot <img width="1907" height="902" alt="Captura de pantalla 2026-03-09 154743" src="https://github.com/user-attachments/assets/954308a7-ddd2-41b0-8db4-47d017d482fe" />
 
