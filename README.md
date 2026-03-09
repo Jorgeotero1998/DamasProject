@@ -20,10 +20,10 @@ Screenshot <img width="1907" height="902" alt="Captura de pantalla 2026-03-09 15
 
 1.  **Requisitos previos**: Tener instalado Python y Node.js.
 2.  **Lanzamiento automático**: He creado un script de PowerShell para arrancar ambos servidores simultáneamente:
-    \`\`\`powershell
+    powershell
     .\start_all.ps1
-    \`\`\`
-3.  **Acceso**: Abre tu navegador en \http://localhost:5173\.
+    
+3.  **Acceso**: Abre tu navegador en http://localhost:5173\.
 
 * **Diseño Realista**
 * **Sugerencia de Movimientos**
