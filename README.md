@@ -1,5 +1,5 @@
 
-# 🏁 Damas Project - Full Stack AI Game
+# 🏁 Damas Project - 
 
 Un motor de juego de damas profesional con una arquitectura moderna de microservicios, diseñado para ofrecer una experiencia visual de alta fidelidad y sugerencias inteligentes.
 
