@@ -3,8 +3,8 @@
 
 Un motor de juego de damas profesional con una arquitectura moderna de microservicios, diseñado para ofrecer una experiencia visual de alta fidelidad y sugerencias inteligentes.
 
- Screenshot(img width="1907" height="902" alt="Captura de pantalla 2026-03-09 154743" src="https://github.com/user-attachments/assets/1d4a2097-77ba-4949-80d5-401d6c5f5bbc" />
-)
+Screenshot <img width="1907" height="902" alt="Captura de pantalla 2026-03-09 154743" src="https://github.com/user-attachments/assets/954308a7-ddd2-41b0-8db4-47d017d482fe" />
+
 
 ## 🚀 Tecnologías Utilizadas
 
